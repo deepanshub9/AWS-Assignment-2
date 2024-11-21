@@ -13,9 +13,3 @@ Framework (WAF) pillars. This evaluation must be in your own words and relate
 specifically to your architecture. </li>
 
 </ol>  
-
-<h4>Additional functionality</h4>
-<ol>
-  <li> AWS Key Managment system for encryption or any file</li>
-  <li>Automate the basic specification, or part of it, using the AWS SDK – e.g. Python/boto.</li>
-</ol>
